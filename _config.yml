@@ -1,5 +1,5 @@
 # ============================================================
-# iFekri - Jekyll Template
+# marvenkartenian - Jekyll Template
 # Operator console aesthetic for developer portfolios
 # ============================================================
 #
@@ -9,28 +9,28 @@
 # ============================================================
 
 # Site
-title: "iFekri"
+title: "marvenkartenian"
 tagline: "Signal clear. Systems online."
 description: "Developer portfolio and field notes. Built for people who ship."
-url: "https://iFekri.github.io"
+url: "https://marvenkartenian.github.io"
 baseurl: ""
 lang: en
 timezone: America/New_York
 
 # Owner — fill these in with your details
 owner:
-  name: "ifekri"
-  handle: "ifekri"
+  name: "marvenkartenian"
+  handle: "marvenkartenian"
   role: "Systems engineer"
   bio: "I design software that stays up, stays fast, and stays honest under load."
-  email: "devfekri@icloud.com"
-  location: "Root"
+  email: "marvenkartenian@gmail.com"
+  location: "Monaco"
   status: "Open to contracts"
-  github: "ifekri"
-  gitlab: "0xmdrza"
-  twitter: "-"
-  linkedin: "-"
-  telegram: "rootblock"
+  github: "marvenkartenian"
+  gitlab: "marvenkartenian"
+  twitter: "marvenkartenian"
+  linkedin: "marvenkartenian"
+  telegram: "marvenkartenian"
 
 # ------------------------------------------------------------
 # Live repository feeds
@@ -47,14 +47,14 @@ repos:
 
 github:
   enabled: true
-  username: "iFekri"
+  username: "marvenkartenian"
   # Optional: set via GitHub Actions secret GH_TOKEN for higher rate limits
   # and to include private repos you own. Leave blank for public-only.
   token: ""
   per_page: 100
   # Repos to hide (case-insensitive names)
   exclude:
-    - "ifekri.github.io"
+    - "marvenkartenian.github.io"
   # Prefer these repos first on the homepage (by exact name)
   pinned: []
 
@@ -90,13 +90,13 @@ kramdown:
 
 # SEO
 twitter:
-  username: "iFekri"
+  username: "marvenkartenian"
   card: summary_large_image
 
 social:
-  name: "iFekri"
+  name: "marvenkartenian"
   links:
-    - https://github.com/ifekri
+    - https://github.com/marvenkartenian
     - https://gitlab.com/0xmdrza
     - https://twitter.com/
     - https://linkedin.com/in/
