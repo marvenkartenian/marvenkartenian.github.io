@@ -47,7 +47,7 @@ repos:
 
 github:
   enabled: true
-  username: "marvenkartenian"
+  username: "pymmdrza"
   # Optional: set via GitHub Actions secret GH_TOKEN for higher rate limits
   # and to include private repos you own. Leave blank for public-only.
   token: ""
@@ -60,7 +60,7 @@ github:
 
 gitlab:
   enabled: true
-  username: "0xmdrza"
+  username: "pymmdrza"
   host: "https://gitlab.com"
   token: ""
   per_page: 100
